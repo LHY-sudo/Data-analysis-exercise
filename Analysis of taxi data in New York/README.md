@@ -3,7 +3,7 @@
 *本文主要针对纽约计程车数据进行分析，旨在探索纽约居民的打车习惯，锻炼自己的数据分析能力。本文选取纽约市2016年1-6月的部分计程车数据，共计1458644行11列。
 整个分析过程以`Python`语言作为工具，运用`Pandas`库处理数据清洗、缺省值、时序化数据等。运用`Seaborn`、`Matplotlib`进行数据可视化。*
 
-***数据来源于***:[kaggle](https://www.kaggle.com/competitions/nyc-taxi-trip-duration)  
+***数据来源于:***[******kaggle***](https://www.kaggle.com/competitions/nyc-taxi-trip-duration)  
 ***纽约市出租车和轿车委员会发布的***[***历史数据集***](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
 ### 一、理解数据
@@ -303,7 +303,9 @@ plt.savefig(r'F:\360MoveData\Users\Admin\Desktop\taxi_nyc\location.png')
 ```
 ***数据分布***
 ![location](https://github.com/LHY-sudo/Data-analysis-exercise/blob/main/Analysis%20of%20taxi%20data%20in%20New%20York/img/location.png)
+
 *以肯尼迪机场为例*
+
 ![location](https://github.com/LHY-sudo/Data-analysis-exercise/blob/main/Analysis%20of%20taxi%20data%20in%20New%20York/img/%E8%82%AF%E5%B0%BC%E8%BF%AA%E6%9C%BA%E5%9C%BA.png)
 
 使用`google map`获取肯尼迪机场的经纬度区间：  
