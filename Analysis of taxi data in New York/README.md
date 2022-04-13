@@ -302,7 +302,8 @@ plt.xlim(NY_longitude)
 plt.savefig(r'F:\360MoveData\Users\Admin\Desktop\taxi_nyc\location.png')
 ```
 ***数据分布***
-![location](https://github.com/LHY-sudo/Data-analysis-exercise/blob/main/Analysis%20of%20taxi%20data%20in%20New%20York/img/location.png)
+
+![location](https://github.com/LHY-sudo/Data-analysis-exercise/blob/main/Analysis%20of%20taxi%20data%20in%20New%20York/img/location2.png)
 
 *以肯尼迪机场为例*
 
